@@ -1,3 +1,3 @@
 export function DoCoolMachineLearning() {
-  console.log("cool");
+  console.log("cooler");
 }
